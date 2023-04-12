@@ -1,0 +1,15 @@
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\bin\Debug\net6.0\Final3.exe
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\bin\Debug\net6.0\Final3.deps.json
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\bin\Debug\net6.0\Final3.runtimeconfig.json
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\bin\Debug\net6.0\Final3.dll
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\bin\Debug\net6.0\Final3.pdb
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.AssemblyInfo.cs
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.dll
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\refint\Final3.dll
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.pdb
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\Final3.genruntimeconfig.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\Final_C#\Final3\obj\Debug\net6.0\ref\Final3.dll

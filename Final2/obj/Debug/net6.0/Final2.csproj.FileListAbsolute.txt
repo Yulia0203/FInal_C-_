@@ -1,0 +1,15 @@
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.AssemblyInfo.cs
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\bin\Debug\net6.0\Final2.exe
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\bin\Debug\net6.0\Final2.deps.json
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\bin\Debug\net6.0\Final2.runtimeconfig.json
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\bin\Debug\net6.0\Final2.dll
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\bin\Debug\net6.0\Final2.pdb
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.dll
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\refint\Final2.dll
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.pdb
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\Final2.genruntimeconfig.cache
+C:\Users\Юля\Desktop\ЮЛЯ\Программирование\C#\Final2\obj\Debug\net6.0\ref\Final2.dll
